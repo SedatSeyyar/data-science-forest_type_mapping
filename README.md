@@ -6,6 +6,7 @@ You must install the following libraries.
 + Scikit-learn
 + Pandas
 + Seaborn
++ Matplotlib
 
 ## What's in the project?
 + First of all, the decision tree was trained with all the features we had.
