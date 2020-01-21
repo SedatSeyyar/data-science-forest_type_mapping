@@ -8,10 +8,7 @@ Created on Tue Jan 21 18:57:23 2020
 import pandas as pd
 from sklearn import tree
 import matplotlib.pyplot as plt
-from sklearn import svm
-from sklearn.ensemble import ExtraTreesClassifier
 from sklearn.metrics import classification_report
-from sklearn.metrics import confusion_matrix
 import seaborn as sns
 
 
